@@ -1,4 +1,4 @@
-# ERC20 Token Presale Smart Contract
+# EVM Token Presale Smart Contract
 
 ## Overview
 A comprehensive implementation of an Ethereum-based ERC20 token and presale campaign (ICO) solution.
